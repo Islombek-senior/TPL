@@ -30,7 +30,6 @@ function App() {
       setData(res.data);
     });
   }, []);
-  // dlkfvsdfjnvsfdk
   return (
     <ChakraProvider>
       <Contexts.Provider
